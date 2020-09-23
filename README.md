@@ -1,1 +1,1 @@
-Java automation selenium frmwrk
+Java automation Maven selenium frmwrk
