@@ -1,1 +1,1 @@
-Java automation Maven selenium frmwrk
+Java Maven TestNg Appium Framework boiler plate
